@@ -19,3 +19,6 @@ Este Framework proporciona unas capacidades avanzadas de entrenamiento con indep
 Comienza desde tu propio dispositivo local, a entrenar con Modelos de Inteligencia Artificial, sin restricciones ni requisitos previos de acceso: 
 
 
+[![usb](https://github.com/user-attachments/assets/a6bf83fb-561b-482a-b35f-f518b4fa82fa)](http//github.com)
+
+

@@ -7,7 +7,7 @@ TerminaTodo es un Framework Open Source, liberado para el entrenamiento en local
 
 Puedes usarlo en Local, con cualquier Libreria, desde las instalables con Comandos de Consola, como: 
 ``` bash
- #"Pip install (nombre_libreria)" 
+ #  Pip install (nombre_libreria) 
  ```
  o directamente usandolas desde su instalación en tu máquina. 
 

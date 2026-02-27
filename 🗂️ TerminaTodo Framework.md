@@ -418,7 +418,7 @@ MIT License
 ## 📞 Soporte
 
 - **Documentación**: http://localhost:8000/docs
-- **GitHub**: [Repositorio]
+- **GitHub**: [Termina Todo](http://github.com/yoqer/TerminaTodo) 
 - **Issues**: Reportar en GitHub
 
 ---

@@ -9,7 +9,7 @@ TerminaTodo es un Framework Open Source, liberado para el entrenamiento en local
 
 Puedes usarlo en Local, con cualquier Libreria, desde las instalables con Comandos de Consola, como: 
 ``` bash
- #  Instalar : 
+ #  Instalar desde PyPI:  
 pip install (nombre_libreria) 
  ```
  o directamente usandolas desde su instalación en tu máquina. 
@@ -17,7 +17,7 @@ pip install (nombre_libreria)
 Este Framework proporciona unas capacidades avanzadas de entrenamiento con independencia de tu Pc y su rendimiento, aplicando tecnicas necesarias para uso con la Comunicacion Multilingual. 
 
 
-(Aunque pueda resultar algo lento y frustrante sin PCs y GPUs potentes; es ideal para Fine-tunear modelos pre-entrenados previos, con pequeños Dataset, datos delicados o que no puedan ser expuestos a riesgos de la Red Pública de Internet. Incluso para concluir el entrenamiento con los datos no utilizados deliberadamente, para la métrica del rendimiento y aprendizaje del LLM. - Aunque no obstante recomendamos siempre usar el almacenaje de su espacio de Usuario, de las Bibliotecas, o cargar en ellas previamente este contenido que se desee entrenar; las que también pueden ser descargadas y estan cifradas para seguridad; por una necesidad de velocidad y rendimiento en la extracción de datos del almacenamiento, para mayor calidad y mejores prestaciones.   -La Administracion en Bases de Datos Organizadas; como las [Bibliotecas](http://carlomaxxine.com/biblio); son un Requisito de Obligatorio Cumplimiento para el Machine Learning Moderno, la Calidad, la Efectividad, su Eficiencia y la Seguridad de los Datos. ) 
+(Aunque pueda resultar algo lento y frustrante sin PCs y GPUs potentes; es ideal para Fine-tunear modelos pre-entrenados previos, con pequeños Dataset, datos delicados o que no puedan ser expuestos a riesgos de la Red Pública de Internet. Incluso para concluir el entrenamiento con los datos no utilizados deliberadamente, para la métrica del rendimiento y aprendizaje del LLM. - Aunque no obstante recomendamos siempre usar el almacenaje de su espacio de Usuario, de las Bibliotecas, o cargar en ellas previamente este contenido que se desee entrenar; las que también pueden ser descargadas y estan cifradas para seguridad; por una necesidad de velocidad y rendimiento en la extracción de datos del almacenamiento, para mayor calidad y mejores prestaciones.   -La Administracion en Bases de Datos Organizadas; como las [Bibliotecas](http://carlomaxxine.com/librery/lecturas.htm); son un Requisito de Obligatorio Cumplimiento para el Machine Learning Moderno, la Calidad, la Efectividad, su Eficiencia y la Seguridad de los Datos. ) 
 
 
 Comienza desde tu propio dispositivo local, a entrenar con Modelos de Inteligencia Artificial, sin restricciones ni requisitos previos de acceso: 

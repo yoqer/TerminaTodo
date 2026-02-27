@@ -6,7 +6,8 @@
 TerminaTodo es un Framework Open Source, liberado para el entrenamiento en local con cualquier condicion de Pc General, y cualquier almacenaje desde discos del Pc, hasta nubes y servidores de almacenaje en Hosting; para que no tengas que preocuparte donde almacenas tus datos y puedas entrenar con ellos tus propias IAs. - Contando con la posibilidad de asociar al Proyecto Multilingual de AnimAlia de: [AlIAmAlIA](http://Github.com/yoqer/AlIAmAlIA); para usar con las funciones avanzadas sincronizadas con la Comunicación Multilingual entre Especies. 
 
 Puedes usarlo en Local, con cualquier Libreria, desde las instalables con Comandos de Consola, como: 
-"Pip install (nombre_libreria)"
+# bash
+"Pip install (nombre_libreria)" #
  o directamente usandolas desde su instalación en tu máquina. 
 
 Este Framework proporciona unas capacidades avanzadas de entrenamiento con independencia de tu Pc y su rendimiento, aplicando tecnicas necesarias para uso con la Comunicacion Multilingual. 

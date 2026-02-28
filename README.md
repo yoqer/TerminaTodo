@@ -26,3 +26,5 @@ Comienza desde tu propio dispositivo local, a entrenar con Modelos de Inteligenc
 [![usb](https://github.com/user-attachments/assets/a6bf83fb-561b-482a-b35f-f518b4fa82fa)](http://github.com/yoqer/TerminaTodo/blob/main/%F0%9F%97%82%EF%B8%8F%20TerminaTodo%20Framework.md)
 
 
+DISPONIBLE CON INSTALACCION: pip install -m terminatodo
+[(Comprender Framework "Termina Todo")](

@@ -27,4 +27,4 @@ Comienza desde tu propio dispositivo local, a entrenar con Modelos de Inteligenc
 
 
 DISPONIBLE CON INSTALACCION: pip install -m terminatodo
-[(Comprender Framework "Termina Todo")](
+[(Comprender Framework "Termina Todo")](https://github.com/yoqer/TerminaTodo/blob/Pruebas/PRESENTACION_TERMINATODO.md) 

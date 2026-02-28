@@ -716,7 +716,7 @@ for model in models:
 - **Documentación:** Ver README_COMPLETO.md
 - **API Docs:** http://localhost:8000/docs
 - **ReDoc:** http://localhost:8000/redoc
-- **GitHub:** [Repositorio]
+- **GitHub:** [Pruebas](https://github.com/yoqer/TerminaTodo/blob/Pruebas/PRESENTACION_TERMINATODO.md) 
 
 ---
 

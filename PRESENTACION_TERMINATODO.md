@@ -716,7 +716,13 @@ for model in models:
 - **Documentación:** Ver README_COMPLETO.md
 - **API Docs:** http://localhost:8000/docs
 - **ReDoc:** http://localhost:8000/redoc
-- **GitHub:** [Guia Pruebas](
+
+- **Otro Usos**: [Casos de Uso](https://github.com/yoqer/TerminaTodo/blob/Pruebas/EJEMPLOS_CODIGO_COMBINACIONES.md) 
+
+- **GitHub:** [Descarga Version Despliegue Local]
+
+  
+- **Probar**: [Guia de Pruebas](
 https://github.com/yoqer/TerminaTodo/blob/Pruebas/📖%20Guía%20Completa%20de%20Pruebas%20-%20TerminaTodo%20v2.0.md) 
 ---
 

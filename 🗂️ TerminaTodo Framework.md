@@ -376,6 +376,9 @@ nc -zv host 22
 - **ReDoc**: http://localhost:8000/redoc
 - **Ejemplos**: Ver carpeta `examples/`
 
+- **Mas Ejemplos**: [Casos de Uso]
+  
+
 ## 🤝 Integración con Otros Frameworks
 
 ### Con Terminato

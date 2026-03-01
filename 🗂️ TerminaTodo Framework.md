@@ -376,7 +376,7 @@ nc -zv host 22
 - **ReDoc**: http://localhost:8000/redoc
 - **Ejemplos**: Ver carpeta `examples/`
 
-- **Mas Ejemplos**: [Casos de Uso]
+- **Mas Ejemplos**: [Casos de Uso](https://github.com/yoqer/TerminaTodo/blob/Pruebas/EJEMPLOS_CODIGO_COMBINACIONES.md) 
   
 
 ## 🤝 Integración con Otros Frameworks

@@ -689,7 +689,7 @@ for model in models:
 
 ## 🎯 Próximos Pasos
 
-1. **Publicar en PyPI**
+1. **Publicado en PyPI**
    ```bash
    pip install terminatodo
    ```
@@ -719,11 +719,13 @@ for model in models:
 
 - **Otro Usos**: [Casos de Uso](https://github.com/yoqer/TerminaTodo/blob/Pruebas/EJEMPLOS_CODIGO_COMBINACIONES.md) 
 
-- **GitHub:** [Descarga Version Despliegue Local]
+- **GitHub:** [Despliegue Local]
 
   
 - **Probar**: [Guia de Pruebas](
-https://github.com/yoqer/TerminaTodo/blob/Pruebas/📖%20Guía%20Completa%20de%20Pruebas%20-%20TerminaTodo%20v2.0.md) 
+https://github.com/yoqer/TerminaTodo/blob/Pruebas/📖%20Guía%20Completa%20de%20Pruebas%20-%20TerminaTodo%20v2.0.md)
+
+
 ---
 
 **TerminaTodo v2.0**  

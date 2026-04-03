@@ -1,5 +1,7 @@
 Si ya hizo la instalacion puede necesitar actualizaciones del Paquete suelto; Archivo Terminatodo.... GitHub. 
-Se han corregido algunos errores, pero aun asi las nomenclaturas pueden variar; con fallo reiterado: Teminador; en lugar de la libreria: Tenminator; debido a las Traducciones.       
+
+Se han corregido algunos errores, pero aun asi las nomenclaturas pueden variar; con fallo reiterado: Teminador; en lugar de la libreria: Tenminator; debido a las Traducciones.   
+
 -Si su distrubucion presentara problemas, descargue el ultimo archivo en .zip y siga nuevamente los pasos de la instalacion en Local o mediante PyPI.
 
 

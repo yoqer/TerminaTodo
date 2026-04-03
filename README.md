@@ -1,4 +1,5 @@
-
+Si ya hizo la instalacion puede necesitar actualizaciones del Paquete suelto; Archivo Terminatodo.... GitHub. Se han corregido algunos errores, pero aun asi las nomenclaturas pueden variar; con fallo reiterado: Temminador; en lugar de la libreria: Tenminator; debido a las Traducciones.       
+-Si su distrubucion presentara problemaas, descargue el ultimo archivo en .zip y siga nuevamente los pasos de la instalacion en Local o mediante PyPI.
 
 
 
@@ -10,7 +11,7 @@ TerminaTodo es un Framework Open Source, liberado para el entrenamiento en local
 Puedes usarlo en Local, con cualquier Libreria, desde las instalables con Comandos de Consola, como: 
 ``` bash
  #  Instalar desde PyPI:  
-pip install (nombre_libreria) 
+pip install terminatodo 
  ```
  o directamente usandolas desde su instalación en tu máquina. 
 

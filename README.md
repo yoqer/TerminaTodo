@@ -5,7 +5,7 @@ Se han corregido algunos errores, pero aun asi las nomenclaturas pueden variar; 
 -Si su distrubucion presentara problemas, descargue el ultimo archivo en .zip y siga nuevamente los pasos de la instalacion en Local o mediante PyPI.
 
 
-[![ver](https://github.com/user-attachments/assets/ce045867-4465-4e61-9e94-c4439c674842)](carlomaxxine.com/tragadatos/Enhanced/frontend/dashboard_v4.html)
+[![ver](https://github.com/user-attachments/assets/ce045867-4465-4e61-9e94-c4439c674842)](http://carlomaxxine.com/tragadatos/Enhanced/frontend/dashboard_v4.html)
 
 
 # TerminaTodo
